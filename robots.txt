@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calldirectorai.github.io/trebor-trebor-financial-solutions/sitemap.xml
+Sitemap: https://treborfinancialsolutions.com/sitemap.xml
