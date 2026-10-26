@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://treborfinancialsolutions.com/bookkeeping/</loc>
+    <lastmod>2026-10-26T19:27:26.976Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://treborfinancialsolutions.com/about/</loc>
     <lastmod>2026-10-26T19:27:20.656Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,11 +28,6 @@
   <url>
     <loc>https://treborfinancialsolutions.com/credit-repair/</loc>
     <lastmod>2026-10-26T19:26:49.900Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://treborfinancialsolutions.com/bookkeeping/</loc>
-    <lastmod>2026-10-26T19:26:44.833Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
