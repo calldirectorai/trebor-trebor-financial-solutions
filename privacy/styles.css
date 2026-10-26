@@ -1,0 +1,12 @@
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{--primary:#1B4F8A;--primary-dark:#0F3460;--primary-light:#2E7DD1;--ink:#0A1628;--tx:#1A1A2E;--tx2:#4A5468;--bdr:#DCE3EC;--fd:'DM Serif Display',Georgia,serif;--fb:'Plus Jakarta Sans',system-ui,-apple-system,Segoe UI,sans-serif}
+html{background:var(--ink)}body{font-family:var(--fb);color:var(--tx);background:#fff;line-height:1.7;-webkit-font-smoothing:antialiased;overflow-x:clip}
+h1,h2{font-family:var(--fd);font-weight:400;line-height:1.15}.ctn{max-width:860px;margin:0 auto;padding:0 20px}
+.skip{position:absolute;left:-999px;top:8px;background:#fff;color:var(--primary);padding:10px 16px;border-radius:8px;font-weight:700}.skip:focus{left:12px}:focus-visible{outline:3px solid var(--primary-light);outline-offset:2px}
+.hdr{background:#fff;border-bottom:1px solid var(--bdr)}.hdr-in{display:flex;align-items:center;justify-content:space-between;gap:12px;height:68px;max-width:1180px;margin:0 auto;padding:0 20px}
+.logo{display:flex;align-items:center;gap:10px;text-decoration:none}.logo-mark{width:40px;height:40px;border-radius:10px;background:linear-gradient(135deg,var(--primary),var(--primary-light));color:#fff;font-family:var(--fd);font-size:21px;display:flex;align-items:center;justify-content:center}.logo-name{display:block;font-weight:700;font-size:1rem;letter-spacing:1.6px;color:var(--primary-dark);text-transform:uppercase;line-height:1.1}.logo-sub{display:block;font-size:.74rem;color:var(--tx2);line-height:1.1}
+.hdr nav{display:flex;gap:14px;font-size:.88rem;font-weight:600}.hdr nav a{color:var(--primary);text-decoration:none}
+.phero{background:linear-gradient(135deg,var(--primary-dark),var(--primary) 60%,var(--primary-light));color:#fff;padding:36px 0 32px}.phero h1{font-size:clamp(2rem,4vw,2.6rem);margin-bottom:6px}.phero p{color:rgba(255,255,255,.88)}
+.legal{padding:36px 0 48px}.legal h2{font-size:1.45rem;margin:26px 0 8px}.legal p,.legal li{color:var(--tx2);font-size:.96rem;margin-bottom:10px}.legal ul{padding-left:20px}.legal a{color:var(--primary)}.eff{font-size:.88rem}
+.ftr{background:var(--ink);color:rgba(255,255,255,.8);padding:24px 0;font-size:.85rem}.ftr .ctn{max-width:1180px;display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between}.ftr a{color:rgba(255,255,255,.88)}.ftr nav{display:flex;gap:16px;flex-wrap:wrap}
+@media(max-width:560px){.hdr nav a.hide-sm{display:none}}
