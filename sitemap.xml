@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://treborfinancialsolutions.com/credit-repair/</loc>
+    <lastmod>2026-10-26T19:25:15.224Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://treborfinancialsolutions.com/contact/</loc>
     <lastmod>2026-10-26T19:25:09.369Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,11 +63,6 @@
   <url>
     <loc>https://treborfinancialsolutions.com/disclaimer/</loc>
     <lastmod>2026-10-26T18:00:07.194Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://treborfinancialsolutions.com/credit-repair/</loc>
-    <lastmod>2026-10-26T18:00:00.127Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
