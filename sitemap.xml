@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://treborfinancialsolutions.com/vip/</loc>
-    <lastmod>2026-10-26T18:00:56.386Z</lastmod>
+    <loc>https://treborfinancialsolutions.com/</loc>
+    <lastmod>2026-10-26T19:24:51.408Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>https://treborfinancialsolutions.com/terms/</loc>
-    <lastmod>2026-10-26T18:00:49.246Z</lastmod>
+    <lastmod>2026-10-26T19:24:45.716Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://treborfinancialsolutions.com/vip/</loc>
+    <lastmod>2026-10-26T18:00:56.386Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -58,11 +63,6 @@
   <url>
     <loc>https://treborfinancialsolutions.com/about/</loc>
     <lastmod>2026-10-26T17:59:40.384Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://treborfinancialsolutions.com/</loc>
-    <lastmod>2026-10-26T17:59:31.663Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
