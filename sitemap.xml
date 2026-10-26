@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://treborfinancialsolutions.com/financial-coaching/</loc>
+    <lastmod>2026-10-26T19:27:58.493Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://treborfinancialsolutions.com/feedback/</loc>
     <lastmod>2026-10-26T19:27:51.886Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -33,11 +38,6 @@
   <url>
     <loc>https://treborfinancialsolutions.com/</loc>
     <lastmod>2026-10-26T19:27:14.268Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://treborfinancialsolutions.com/financial-coaching/</loc>
-    <lastmod>2026-10-26T19:26:55.586Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
   <url>
