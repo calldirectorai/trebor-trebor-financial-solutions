@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://treborfinancialsolutions.com/tax-preparation/</loc>
+    <lastmod>2026-10-26T19:25:51.984Z</lastmod>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
     <loc>https://treborfinancialsolutions.com/robert/</loc>
     <lastmod>2026-10-26T19:25:45.906Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -58,11 +63,6 @@
   <url>
     <loc>https://treborfinancialsolutions.com/vip/</loc>
     <lastmod>2026-10-26T18:00:56.386Z</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://treborfinancialsolutions.com/tax-preparation/</loc>
-    <lastmod>2026-10-26T18:00:42.314Z</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
